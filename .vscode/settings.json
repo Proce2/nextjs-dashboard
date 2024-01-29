@@ -3,5 +3,12 @@
     "workbench.tree.enableStickyScroll": true,
     "notebook.stickyScroll.enabled": true,
     "editor.stickyScroll.enabled": true,
-    "editor.stickyScroll.defaultModel": "foldingProviderModel"
+    "editor.stickyScroll.defaultModel": "foldingProviderModel",
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.enableImages": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth"
 }
